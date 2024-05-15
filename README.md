@@ -20,7 +20,7 @@ I am Mahdi, a passionate developer and competitive programming enthusiast skille
 
 - 📫 Reach me on: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mahdi-chaaben-dev/)
   
-- 🌐 Check out my competitive programming profile: [![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?logo=codeforces&logoColor=white&style=for-the-badge)](https://codeforces.com/profile/chaaben)
+- 🌐 Check out my Codeforces profile: [![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?logo=codeforces&logoColor=white&style=for-the-badge)](https://codeforces.com/profile/chaaben)
 
 ---
 
