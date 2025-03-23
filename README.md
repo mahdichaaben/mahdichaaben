@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Mahdi, a passionate developer and competitive programming enthusiast skilled in multiple technologies.
+I am Mahdi, a passionate developer and skilled in multiple technologies.
 
 ---
 
