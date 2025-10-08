@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Mahdi, a passionate developer and skilled in multiple technologies.
+I am Mahdi, a passionate software engineer and developer skilled in building real-time solutions, smart systems, and full-stack applications. I have hands-on experience with AI, IoT, web development, and system architecture.
 
 ---
 
@@ -17,18 +17,24 @@ I am Mahdi, a passionate developer and skilled in multiple technologies.
   <img src="https://img.shields.io/badge/-SQL-4479A1?logo=sql&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-OPC%20UA-0052CC?logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Node-RED-FF3A2E?logo=nodered&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-TimescaleDB-0050CC?logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Industrial%20IoT-00AEEF?logoColor=white&style=for-the-badge" />
 </div>
 
-
-
 ---
+
 
 ### Contact
 
-- 📫 Reach me on: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mahdi-chaaben-dev/)
-  
-- 🌐 Check out my Codeforces profile: [![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?logo=codeforces&logoColor=white&style=for-the-badge)](https://codeforces.com/profile/chaaben)
+- 📫 Reach me on: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mahdi-chaaben-dev/)  
+- 🌐 Check out my Codeforces profile: [![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?logo=codeforces&logoColor=white&style=for-the-badge)](https://codeforces.com/profile/chaaben)  
+- 🐙 Explore my GitHub: [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/mahdichaaben)
 
 ---
 
-Feel free to connect with me on LinkedIn and check out my projects on GitHub!
+Feel free to connect and explore my projects on GitHub!
