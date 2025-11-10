@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-I am Mahdi, a passionate software engineer and developer skilled in building real-time solutions, smart systems, and full-stack applications. I have hands-on experience with AI, IoT, web development, and system architecture.
-
+I am Mahdi, a passionate software engineer and developer skilled in building real-time solutions, smart systems, and full-stack applications. 
 ---
 
 ### Skills
