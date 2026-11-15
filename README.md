@@ -1,3 +1,4 @@
+
 # Hi, I'm Mahdi Chaaben 👋
 
 ### Software Engineer | Full-Stack Developer | AI & LLM Engineering
@@ -47,9 +48,9 @@ Interested in **LLMs, RAG, LangChain, MCP, Agentic AI, and Backend Engineering**
 
 ### 💻 Featured Projects
 
-- **[CompanyAI](https://getcompanyai.com/)** – AI-powered knowledge management using RAG, LLMs, LangChain, and MCP.
+- **[CompanyAI – AI-Powered Company Knowledge Management Platform](https://getcompanyai.com/)** – Secure document management and AI knowledge assistant powered by RAG, LLMs, and semantic search.
 - **PixiProject** – AI-assisted Agile project management platform with an agentic AI assistant.
-- **Digital Twin** – Real-time industrial monitoring and 3D factory simulation.
+- **Digital Twin** – Real-time industrial monitoring and interactive 3D factory simulation.
 - **Intelligent Home Security** – AI-powered surveillance using YOLOv8 and FaceNet.
 
 ---
@@ -60,3 +61,4 @@ Interested in **LLMs, RAG, LangChain, MCP, Agentic AI, and Backend Engineering**
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/mahdichaaben)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/chaaben)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome)](https://mahdichaaben.netlify.app/)
+
